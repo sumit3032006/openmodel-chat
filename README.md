@@ -32,7 +32,17 @@ The app is text-only. Some models accept images, but this version does not send 
 
 ## Screenshots
 
-_Add screenshots here after your first run (for example `docs/screenshot-light.png`)._
+### OpenModel Chat — Main Interface
+
+![OpenModel Chat Dashboard](screenshots/openmodel-chat-home.png)
+
+The application features:
+- Multi-model AI chat interface.
+- Five AI models powered by OpenRouter.
+- Model switching.
+- Conversation history and search.
+- API key management.
+- Dark theme and settings.
 
 ## Install (Windows PowerShell, Python 3.11+)
 
